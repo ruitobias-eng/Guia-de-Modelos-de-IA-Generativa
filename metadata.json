@@ -1,0 +1,6 @@
+{
+  "name": "Guia de Modelos de IA Generativa",
+  "description": "Um portal interativo e educacional sobre os modelos de Inteligência Artificial Generativa, com simuladores de arquiteturas (GAN, Difusão, VAE, Autorregressivos), quiz interativo e tutor de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
